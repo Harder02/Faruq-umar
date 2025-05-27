@@ -89,3 +89,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   <a href="logout.php">Back to Home</a>
 </body>
 </html>
+
